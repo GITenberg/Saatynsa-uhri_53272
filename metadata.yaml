@@ -1,5 +1,5 @@
 _repo: Saatynsa-uhri_53272
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The house of mirth. Finnish
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Hamalainen, Armas
     gutenberg_agent_id: '47298'
     url: http://www.gutenberg.org/2009/agents/47298
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -21,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edith_Wharton
     - http://en.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53272#Saatynsa-uhri
 gutenberg_issued: '2016-10-13'
 gutenberg_type: Text
 identifiers:
