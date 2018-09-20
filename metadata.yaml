@@ -1,0 +1,40 @@
+_repo: Saatynsa-uhri_53272
+_version: 0.0.1
+alternative_title: The house of mirth. Finnish
+contributor:
+  translator:
+    agent_name: Hämäläinen, Armas
+    alias: Hamalainen, Armas
+    gutenberg_agent_id: '47298'
+    url: http://www.gutenberg.org/2009/agents/47298
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_issued: '2016-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53272'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: Säätynsä uhri
+url: http://www.gutenberg.org/ebooks/53272
